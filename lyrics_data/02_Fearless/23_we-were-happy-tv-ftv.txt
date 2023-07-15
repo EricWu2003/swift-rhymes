@@ -11,7 +11,7 @@ dark,farm
 down,now
 water,harder
 
-voices,choices,
+voices,choices
 anymore,for
 
 me,happy

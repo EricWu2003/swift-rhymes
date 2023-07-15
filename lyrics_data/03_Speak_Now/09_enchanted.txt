@@ -6,7 +6,7 @@ insincerity,vacancy
 place,face
 
 met,silhouette
-starts,remarks,
+starts,remarks
 me,secrecy
 
 go,home
